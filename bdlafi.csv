@@ -1,0 +1,21 @@
+﻿Movie Name,IMDB Rating,Genre,Number Of Positive Feedback,Referable
+pulp fiction,8.1,suspense,12094,TRUE
+titanic,8.6,romance,34567,FALSE
+the dark knight,9.2,action,76435,TRUE
+life is beautiful,9.4,comedy,34760,TRUE
+the godfather,9.2,suspense,54321,TRUE
+pirates of caribbean,5.4,adventure,67543,FALSE
+avatar,8.8,action,87987,FALSE
+psycho,5.6,thriller,12323,TRUE
+rain man,6.2,adventure,54321,FALSE
+inception,7.8,action,43254,TRUE
+terminator,9.5,action,65243,TRUE
+jurassic park,6.4,adventure,89123,FALSE
+rocky,6.8,drama,53451,FALSE
+american beauty,8.8,drama,54112,FALSE
+taxi driver,9.2,suspense,78612,TRUE
+sin city,7.8,suspense,90671,FALSE
+reservoir dogs,8.3,drama,4567,TRUE
+l a confidential,8.6,suspense,87345,TRUE
+sherlock holmes,9.9,adventure,65312,TRUE
+django unchained,4.6,action,785623,FALSE
